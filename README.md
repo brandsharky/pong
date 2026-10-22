@@ -4,7 +4,7 @@ A two-player remake of the classic arcade game Pong, built with HTML, CSS, and J
 
 **[Play it live](https://brandsharky.github.io/pong/)**
 
-[Pong gameplay](screenshot.webp)
+[Pong gameplay](pong.webp)
 
 ## Features
 
